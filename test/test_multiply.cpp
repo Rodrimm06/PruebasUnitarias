@@ -1,13 +1,13 @@
 #include <gtest/gtest.h>
 #include "mult.h"
-TEST(MultTest, HandlesPositiveInput)
+TEST(MultTest, MultiplyTwoVariables)
 {
 	int result = multiply(9, 3);
 
 	EXPECT_EQ(result, 27);
 }
 
-TEST(MultTest, HandlesZeroInput)
+TEST(MultTest, MultiplyByCero)
 {
 	int result = multiply(9, 0);
 
