@@ -3,6 +3,6 @@
 // Metodo para realizar multiplicaciones
 double multpily(int x, int y)
 {
-	return x*y
+	return x*y;
 };
 
