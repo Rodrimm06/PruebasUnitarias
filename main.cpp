@@ -3,6 +3,7 @@
 #include "sum.h"
 #include "sub.h"
 #include "div.h"
+#include "mult.h"
 
 using std::cout;
 
