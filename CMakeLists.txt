@@ -17,6 +17,7 @@ set(SOURCES
         sum.h
         sub.h
         div.h
+        mult.h
 )
 
 # Crear el ejecutable principal
